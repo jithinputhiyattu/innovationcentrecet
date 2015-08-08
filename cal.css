@@ -1,0 +1,16 @@
+#box {
+	background: #999;
+	width: 100px;
+	height: 100px;
+	position: absolute;	
+}
+
+#clearfix{
+	width: 960px;
+	margin-left: auto;
+    margin-right: auto;	
+}
+
+.date {
+	border: 5px #000000 solid;
+}

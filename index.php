@@ -1,0 +1,3 @@
+<?PHP
+include('home.php');
+?>

@@ -1,0 +1,71 @@
+.datex {
+	cursor: pointer;
+}
+
+#box {
+	position: absolute;
+	left: 200px;
+	top: 200px;
+	width: 475px;
+	height: 200px;
+	border: #fff 3px solid;
+	background:#FFF;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	box-shadow:#A0A0A4 2px 2px 5px;
+}
+
+#closeBtn {
+	text-align: right;
+	width: 26px;
+	height: 26px;
+	float:right;
+	line-height: 20px;
+	box-shadow: #A0A0A4 1px 1px 1px;
+	cursor: pointer;
+}
+#titleBar {
+	text-align: left;
+	color:#F0F;
+	height: 28px;
+	width: 432px;
+	padding:0px;
+	float:left;
+	font-size:22px;
+	font:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-shadow:#FF0;
+	background-image:url(images/img01.jpg);
+	box-shadow: #A0A0A4 1px 1px 1px;
+	cursor:pointer;
+}
+
+
+
+
+
+
+img{
+	   	border:none;}
+	   
+
+
+
+a{
+		color:#75cdd2;
+		text-decoration:none;}
+		
+a:hover{
+		color:#75cdd2;
+		text-decoration:underline;}	
+
+
+
+
+
+#titleframe {
+	position:relative; 
+	margin:0px auto 0px;
+	overflow:hidden;
+	clear:both;
+	height:225px;background-repeat:no-repeat; padding:1px; background-image:url(images/Index.png);
+}
